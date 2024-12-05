@@ -49,6 +49,7 @@ pip install pygame
 ```
 blackmonkeyjack/
 │
+├── musica.mp3             # Música de funco
 ├── main.py                # Código principal do jogo
 ├── Fundo/                 # Imagens de fundo
 ├── Copas/                 # Cartas do naipe Copas
