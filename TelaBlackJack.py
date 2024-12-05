@@ -8,7 +8,7 @@ class BlackjackPygame:
     def __init__(self):
         pygame.init()
 
-        musica_de_fundo = pygame.mixer.music.load('Fortune Tiger - Official Game Soundtrack & Effects.mp3')
+        musica_de_fundo = pygame.mixer.music.load('musicafundo.mp3')
         pygame.mixer.music.play(-1)
 
         # Configurações da janela
