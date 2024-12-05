@@ -41,6 +41,8 @@ pip install pygame
 ### Jogo em Andamento
 <img src="assets/jogo_em_andamento.png" alt="Jogo em Andamento" width="600">
 
+![Demonstração](assets/jogorodando.mp4)
+
 ## 📂 Estrutura do Projeto
 
 ```
