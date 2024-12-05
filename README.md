@@ -68,7 +68,7 @@ blackmonkeyjack/
 ## 👤 Autor
 - *** Bruno Henrique Benkendorf / Andre Luiz de Souza / Ian Bruno Lopes Bonmann ***  
   - [GitHub](https://github.com/BrunoBenkendorf)  
-  - [LinkedIn](https://linkedin.com/in/BrunoBenkendorf)  
+  - [LinkedIn](https://www.linkedin.com/in/bruno-benkendorf-892836267/)
 
 ---
 
