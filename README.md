@@ -49,7 +49,6 @@ pip install pygame
 ```
 blackmonkeyjack/
 │
-├── musica.mp3             # Música de fundo
 ├── main.py                # Código principal do jogo
 ├── Fundo/                 # Imagens de fundo
 ├── Copas/                 # Cartas do naipe Copas
@@ -58,6 +57,7 @@ blackmonkeyjack/
 ├── Paus/                  # Cartas do naipe Paus
 ├── Fichas/                # Imagens das fichas de aposta
 ├── FontePixel/            # Fontes utilizadas no jogo
+├── musica.mp3             # Música de fundo
 ├── README.md              # Documentação do projeto
 ```
 
